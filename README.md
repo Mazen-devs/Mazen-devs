@@ -51,7 +51,7 @@ Custom CNN vs <b>EfficientNetB3</b> transfer learning on 4,752 real landfill pho
 <img src="https://img.shields.io/badge/Transfer%20learning-6f42c1?style=flat-square" alt="Transfer learning"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/Class%20imbalance-555?style=flat-square" alt="Class imbalance">
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Mazen-devs/aquasentinel-iot-water-quality"><img src="assets/aquasentinel.png" alt="IoT network topology in Cisco Packet Tracer"></a>
+<a href="https://github.com/Mazen-devs/aquasentinel-iot-water-quality"><img src="assets/aquasentinellogo.png" alt="IoT network topology in Cisco Packet Tracer"></a>
 <h3><a href="https://github.com/Mazen-devs/aquasentinel-iot-water-quality">AquaSentinel Predictive</a></h3>
 IoT water-quality early-warning system: an edge-to-cloud design with four algorithms, plus a <b>13-device simulation</b> with Python-scripted sensors and 10 automation rules. <b>7/7 tests passed</b>, with alerts in 3–4 s.<br><br>
 <img src="https://img.shields.io/badge/IoT-0A9EDC?style=flat-square" alt="IoT"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
